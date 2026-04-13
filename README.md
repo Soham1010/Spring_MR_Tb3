@@ -1,4 +1,4 @@
-# 📦 SpringSwarm-MRS: Collaborative Object Transport 🐢🐢🐢
+<img width="589" height="343" alt="image" src="https://github.com/user-attachments/assets/5d08481c-6cc5-483a-8cbe-370ffb21407e" /># 📦 SpringSwarm-MRS: Collaborative Object Transport 🐢🐢🐢
 
 **SpringSwarm-MRS** is a ROS 2 Humble and Gazebo Classic simulation environment designed for researching Multi-Robot System (MRS) collaborative transport. It features three TurtleBot3 Burgers tethered to a common cargo box via simulated spring-damper couplings.
 
@@ -20,6 +20,7 @@
   🔴 Leader | 🟢 Follower 1 | 🟡 Follower 2
 
 ---
+<img width="589" height="343" alt="image" src="https://github.com/user-attachments/assets/99684d24-28e9-49af-815b-72c071de3302" />
 
 ## 🛠️ Installation & Setup
 
