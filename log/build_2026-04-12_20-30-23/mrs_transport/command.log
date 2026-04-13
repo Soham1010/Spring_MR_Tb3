@@ -1,0 +1,2 @@
+Invoking command in '/home/wade/mrs_ws/build/mrs_transport': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wade/luna_ws/install/lunabot_control:/opt/ros/humble /usr/bin/cmake --build /home/wade/mrs_ws/build/mrs_transport -- -j12 -l12
+Invoked command in '/home/wade/mrs_ws/build/mrs_transport' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wade/luna_ws/install/lunabot_control:/opt/ros/humble /usr/bin/cmake --build /home/wade/mrs_ws/build/mrs_transport -- -j12 -l12

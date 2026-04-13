@@ -1,0 +1,26 @@
+[0.010s] Invoking command in '/home/wade/mrs_ws/build/mrs_transport': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wade/luna_ws/install/lunabot_control:/opt/ros/humble /usr/bin/cmake --build /home/wade/mrs_ws/build/mrs_transport -- -j12 -l12
+[0.046s] Invoked command in '/home/wade/mrs_ws/build/mrs_transport' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wade/luna_ws/install/lunabot_control:/opt/ros/humble /usr/bin/cmake --build /home/wade/mrs_ws/build/mrs_transport -- -j12 -l12
+[0.055s] Invoking command in '/home/wade/mrs_ws/build/mrs_transport': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wade/luna_ws/install/lunabot_control:/opt/ros/humble /usr/bin/cmake --install /home/wade/mrs_ws/build/mrs_transport
+[0.059s] -- Install configuration: ""
+[0.060s] -- Up-to-date: /home/wade/mrs_ws/install/mrs_transport/share/mrs_transport/launch
+[0.060s] -- Up-to-date: /home/wade/mrs_ws/install/mrs_transport/share/mrs_transport/launch/spawn_system.launch.py
+[0.060s] -- Up-to-date: /home/wade/mrs_ws/install/mrs_transport/share/mrs_transport/urdf
+[0.060s] -- Installing: /home/wade/mrs_ws/install/mrs_transport/share/mrs_transport/urdf/tethered_box.urdf.xacro
+[0.060s] -- Up-to-date: /home/wade/mrs_ws/install/mrs_transport/share/mrs_transport/worlds
+[0.060s] -- Up-to-date: /home/wade/mrs_ws/install/mrs_transport/lib/mrs_transport/follower_controller.py
+[0.060s] -- Up-to-date: /home/wade/mrs_ws/install/mrs_transport/share/ament_index/resource_index/package_run_dependencies/mrs_transport
+[0.060s] -- Up-to-date: /home/wade/mrs_ws/install/mrs_transport/share/ament_index/resource_index/parent_prefix_path/mrs_transport
+[0.060s] -- Up-to-date: /home/wade/mrs_ws/install/mrs_transport/share/mrs_transport/environment/ament_prefix_path.sh
+[0.060s] -- Up-to-date: /home/wade/mrs_ws/install/mrs_transport/share/mrs_transport/environment/ament_prefix_path.dsv
+[0.060s] -- Up-to-date: /home/wade/mrs_ws/install/mrs_transport/share/mrs_transport/environment/path.sh
+[0.060s] -- Up-to-date: /home/wade/mrs_ws/install/mrs_transport/share/mrs_transport/environment/path.dsv
+[0.060s] -- Up-to-date: /home/wade/mrs_ws/install/mrs_transport/share/mrs_transport/local_setup.bash
+[0.060s] -- Up-to-date: /home/wade/mrs_ws/install/mrs_transport/share/mrs_transport/local_setup.sh
+[0.060s] -- Up-to-date: /home/wade/mrs_ws/install/mrs_transport/share/mrs_transport/local_setup.zsh
+[0.060s] -- Up-to-date: /home/wade/mrs_ws/install/mrs_transport/share/mrs_transport/local_setup.dsv
+[0.061s] -- Installing: /home/wade/mrs_ws/install/mrs_transport/share/mrs_transport/package.dsv
+[0.061s] -- Up-to-date: /home/wade/mrs_ws/install/mrs_transport/share/ament_index/resource_index/packages/mrs_transport
+[0.061s] -- Up-to-date: /home/wade/mrs_ws/install/mrs_transport/share/mrs_transport/cmake/mrs_transportConfig.cmake
+[0.061s] -- Up-to-date: /home/wade/mrs_ws/install/mrs_transport/share/mrs_transport/cmake/mrs_transportConfig-version.cmake
+[0.061s] -- Up-to-date: /home/wade/mrs_ws/install/mrs_transport/share/mrs_transport/package.xml
+[0.062s] Invoked command in '/home/wade/mrs_ws/build/mrs_transport' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wade/luna_ws/install/lunabot_control:/opt/ros/humble /usr/bin/cmake --install /home/wade/mrs_ws/build/mrs_transport

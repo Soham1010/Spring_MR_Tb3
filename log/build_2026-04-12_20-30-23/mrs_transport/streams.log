@@ -1,0 +1,16 @@
+[0.009s] Invoking command in '/home/wade/mrs_ws/build/mrs_transport': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wade/luna_ws/install/lunabot_control:/opt/ros/humble /usr/bin/cmake --build /home/wade/mrs_ws/build/mrs_transport -- -j12 -l12
+[0.030s] -- Found ament_cmake: 1.3.14 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.115s] [31mCMake Error at CMakeLists.txt:14 (install):
+[0.115s]   install DIRECTORY given non-directory "scripts/follower_controller.py" to
+[0.115s]   install.
+[0.115s] 
+[0.115s] [0m
+[0.115s] -- Found ament_lint_auto: 0.12.15 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.159s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.159s] -- Added test 'lint_cmake' to check CMake code style
+[0.160s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.160s] -- Added test 'xmllint' to check XML markup files
+[0.161s] -- Configuring incomplete, errors occurred!
+[0.161s] See also "/home/wade/mrs_ws/build/mrs_transport/CMakeFiles/CMakeOutput.log".
+[0.163s] gmake: *** [Makefile:226: cmake_check_build_system] Error 1
+[0.165s] Invoked command in '/home/wade/mrs_ws/build/mrs_transport' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wade/luna_ws/install/lunabot_control:/opt/ros/humble /usr/bin/cmake --build /home/wade/mrs_ws/build/mrs_transport -- -j12 -l12

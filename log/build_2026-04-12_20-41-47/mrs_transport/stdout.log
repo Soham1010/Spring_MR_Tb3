@@ -1,0 +1,22 @@
+-- Install configuration: ""
+-- Up-to-date: /home/wade/mrs_ws/install/mrs_transport/share/mrs_transport/launch
+-- Up-to-date: /home/wade/mrs_ws/install/mrs_transport/share/mrs_transport/launch/spawn_system.launch.py
+-- Up-to-date: /home/wade/mrs_ws/install/mrs_transport/share/mrs_transport/urdf
+-- Up-to-date: /home/wade/mrs_ws/install/mrs_transport/share/mrs_transport/urdf/tethered_box.urdf.xacro
+-- Up-to-date: /home/wade/mrs_ws/install/mrs_transport/share/mrs_transport/worlds
+-- Up-to-date: /home/wade/mrs_ws/install/mrs_transport/lib/mrs_transport/follower_controller.py
+-- Up-to-date: /home/wade/mrs_ws/install/mrs_transport/share/ament_index/resource_index/package_run_dependencies/mrs_transport
+-- Up-to-date: /home/wade/mrs_ws/install/mrs_transport/share/ament_index/resource_index/parent_prefix_path/mrs_transport
+-- Up-to-date: /home/wade/mrs_ws/install/mrs_transport/share/mrs_transport/environment/ament_prefix_path.sh
+-- Up-to-date: /home/wade/mrs_ws/install/mrs_transport/share/mrs_transport/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/wade/mrs_ws/install/mrs_transport/share/mrs_transport/environment/path.sh
+-- Up-to-date: /home/wade/mrs_ws/install/mrs_transport/share/mrs_transport/environment/path.dsv
+-- Up-to-date: /home/wade/mrs_ws/install/mrs_transport/share/mrs_transport/local_setup.bash
+-- Up-to-date: /home/wade/mrs_ws/install/mrs_transport/share/mrs_transport/local_setup.sh
+-- Up-to-date: /home/wade/mrs_ws/install/mrs_transport/share/mrs_transport/local_setup.zsh
+-- Up-to-date: /home/wade/mrs_ws/install/mrs_transport/share/mrs_transport/local_setup.dsv
+-- Installing: /home/wade/mrs_ws/install/mrs_transport/share/mrs_transport/package.dsv
+-- Up-to-date: /home/wade/mrs_ws/install/mrs_transport/share/ament_index/resource_index/packages/mrs_transport
+-- Up-to-date: /home/wade/mrs_ws/install/mrs_transport/share/mrs_transport/cmake/mrs_transportConfig.cmake
+-- Up-to-date: /home/wade/mrs_ws/install/mrs_transport/share/mrs_transport/cmake/mrs_transportConfig-version.cmake
+-- Up-to-date: /home/wade/mrs_ws/install/mrs_transport/share/mrs_transport/package.xml
