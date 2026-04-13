@@ -22,6 +22,8 @@
 ---
 <img width="589" height="343" alt="image" src="https://github.com/user-attachments/assets/99684d24-28e9-49af-815b-72c071de3302" />
 
+( Will fix the floating bots, sorry T^T )
+
 ## 🛠️ Installation & Setup
 
 ### 1. Prerequisites
